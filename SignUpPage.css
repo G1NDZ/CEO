@@ -1,0 +1,19 @@
+body{
+	background-image: url("CEO GUI/Sign Up Icons/sign_up_background.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.backHome{
+	color: rgb(240, 33, 33);
+	position: relative;
+	top: 30px;
+	left: 1150px;
+}
+
+.regist{
+	position: relative;
+	float: right;
+	right: 410px;
+	top: 280px;
+	padding-right: 15px;
+}

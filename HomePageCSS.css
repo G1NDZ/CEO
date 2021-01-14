@@ -1,0 +1,102 @@
+.ceoText {
+    font-size: xx-large;
+    color: white;
+    width: min-content;
+    float: left;
+    padding-left: 15px;
+}
+
+header {
+    background-image: url("ceo\ p/background atas.png");
+    padding: 20px;
+    height: 90%;
+}
+
+.headerText {
+    padding: 17px;
+    color: white;
+}
+
+.loginText {
+    padding: 17px;
+    color: white;
+    background-color: black;
+}
+
+.headerTextContainer {
+    padding-top: 13px;
+    float: right;
+    position: absolute;
+    right: 16px;
+}
+
+.container1 {
+    color: white;
+    text-align: left;
+    padding-top: 10%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+}
+
+.bigText {
+    font-size: 80px;
+}
+
+.yellowButton {
+    background-color: rgb(255, 174, 0);
+    display: inline-block;
+    padding: 15px;
+    width: fit-content;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+footer{
+    background-image: url("ceo\ p/background atas.png");
+    color: white;
+    float: left;
+    width: 100%;
+}
+
+.text1 {
+    float: left;
+    padding: 15px;
+    padding-left: 10%;
+    background-image: url("ceo\ p/background atas.png");
+}
+
+.text2 {
+    float: left;
+    padding: 15px;
+    padding-left: 20%;
+    background-image: url("ceo\ p/background atas.png");
+}
+
+.text3 {
+    float: left;
+    padding: 15px;
+    padding-left: 20%;
+    background-image: url("ceo\ p/background atas.png");
+}
+
+a {
+    color: white;
+}
+
+body {
+    background-image: url("ceo\ p/background atas.png");
+}
+
+.yellowBar {
+    background-color: rgb(255, 174, 0);
+    padding: 10px;
+    padding-left: 20%;
+    float: left;
+    width: 1026px;
+}
+
+.eventsContainer {
+    width: 100%;
+    height: 100%;
+    background-image: url("ceo\ p/background tengah.png");
+}
