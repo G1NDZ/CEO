@@ -1,0 +1,16 @@
+.loginFormContainer {
+    text-align: left;
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    margin-top: 5%;
+    margin-bottom: 8%;
+    margin-left: 32%;
+    margin-right: 32%;
+    padding-left: 150px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-right: 150px;
+    position: left;
+}
+
